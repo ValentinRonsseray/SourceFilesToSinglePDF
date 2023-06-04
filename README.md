@@ -66,7 +66,7 @@ output_path = r'/path/to/output.pdf'
 Here are some examples of files generated with this tool:
 
 - [SourceFilesToSinglePDF version b1.0.0 itself](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645248/SourceFilesToSinglePDF.pdf)
-- [Pyzo](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645249/Pyzo.pdf) (Python editor files)
+- [Pyzo](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645249/Pyzo.pdf) (Python editor files. You can find the repository [here](https://github.com/pyzo/pyzo))
 - [Better Trade Screen](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645277/ModCivVI.pdf) (a Sid Meier's Civilization VI mod by astor. You can find it [here](https://steamcommunity.com/sharedfiles/filedetails/?id=873246701))
 
 ## Limitations
