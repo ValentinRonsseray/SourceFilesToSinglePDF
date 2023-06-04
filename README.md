@@ -21,15 +21,15 @@ SourceFilesToSinglePDF can be useful in various scenarios, including:
 ## Installation
 
 ### Requirements
-Before using the PDF Generator, make sure you have the following requirements:
+Before using SourceFilesToSinglePDF, make sure you have the following requirements:
 
 - Python 3.x installed on your system.
 
 ### Steps
 
-To use the PDF Generator, follow these steps:
+To use SourceFilesToSinglePDF, follow these steps:
 
-1. Clone or download the repository from GitHub: [pdf_generator](link_to_repository).
+1. Clone or download the repository from GitHub: [SourceFilesToSinglePDF]([link_to_repository](https://github.com/Vilnante/SourceFilesToSinglePDF/)).
 2. Ensure that you have Python 3.x installed on your system.
 3. Install the required dependencies by running `pip install reportlab PyPDF2`.
 4. Open a terminal or command prompt and navigate to the downloaded repository folder.
@@ -58,19 +58,20 @@ folder_path = r'/path/to/code_samples'
 output_path = r'/path/to/output.pdf'
 ```
 
-### Some generated PDF files
-Here are some examples of files generated with this tool :
+### Some Generated PDF Files
+
+Here are some examples of files generated with this tool:
 
 - [SourceFilesToSinglePDF version b1.0.0 itself](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645248/SourceFilesToSinglePDF.pdf)
-- Files of the Python editor [Pyzo](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645249/Pyzo.pdf)
-
+- [Pyzo](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645249/Pyzo.pdf) (Python editor files)
+- [Better Trade Screen](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645277/ModCivVI.pdf) (a Sid Meier's Civilization VI mod by astor. You can find it [here](https://steamcommunity.com/sharedfiles/filedetails/?id=873246701))
 
 ## Limitations
-- The PDF Generator currently supports a predefined set of file extensions. You can modify the `extensions` list in `config_and_launch.py` to add or remove supported extensions.
+- SourceFilesToSinglePDF currently supports a predefined set of file extensions. You can modify the `extensions` list in `config_and_launch.py` to add or remove supported extensions.
 - The tool relies on the `reportlab` and `PyPDF2` libraries, which should be installed prior to usage.
 
 ## Contribution
-Contributions to the PDF Generator are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
+Contributions to the SourceFilesToSinglePDF are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/Vilnante/SourceFilesToSinglePDF/).
 
 ## License
-The PDF Generator is released under the MIT License.
+This addon is licensed under the [MIT License](LICENSE).
