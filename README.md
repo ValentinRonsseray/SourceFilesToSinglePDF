@@ -61,7 +61,9 @@ output_path = r'/path/to/output.pdf'
 ### Some generated PDF files
 Here are some examples of files generated with this tool :
 
-- [SourceFilesToSinglePDF version b1.0.0 itself]()
+- [SourceFilesToSinglePDF version b1.0.0 itself](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645248/SourceFilesToSinglePDF.pdf)
+- Files of the Python editor [Pyzo](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645249/Pyzo.pdf)
+
 
 ## Limitations
 - The PDF Generator currently supports a predefined set of file extensions. You can modify the `extensions` list in `config_and_launch.py` to add or remove supported extensions.
