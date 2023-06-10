@@ -1,6 +1,6 @@
 # SourceFilesToSinglePDF
 
-![Version](https://img.shields.io/badge/version-v1.0.0-beta-blue.svg)
+![Version](https://img.shields.io/badge/version-v1.0.0--beta-blue)
 ![Status](https://img.shields.io/badge/status-beta-orange.svg)
 
 ## Introduction
