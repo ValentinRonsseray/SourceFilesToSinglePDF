@@ -2,6 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-v1.0.0--beta-blue)
 ![Status](https://img.shields.io/badge/status-beta-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Introduction
 SourceFilesToSinglePDF is a Python tool that allows you to convert files from various extensions into a single PDF document. It provides a convenient way to compile multiple source code files (e.g., Python, HTML, CSS) into a PDF for easy sharing or printing. The tool automatically generates a table of contents with page numbers, making it simple to navigate through the compiled PDF.
