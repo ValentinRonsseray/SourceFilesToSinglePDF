@@ -13,7 +13,7 @@ SourceFilesToSinglePDF is a Python tool that allows you to convert files from va
 - Supports multiple files and directories.
 - Provides customization options for parameters like folder paths and output file names.
 
-### Some Generated PDF Files
+## Some Generated PDF Files
 
 Here are some examples of files generated with this tool:
 
