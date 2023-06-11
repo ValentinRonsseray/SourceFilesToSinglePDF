@@ -55,7 +55,7 @@ To use SourceFilesToSinglePDF, follow these steps:
    
    Several examples in the file will help you changing these parameters properly.
 3. Save the `config_and_launch.py` file.
-4. If you are using a terminal, execute the script by running `python config_and_launch.py` after having choosed the SourceFilesToSinglePDF's folder directory with `cd`. Otherwise, if you are using an IDE such as Visual Studio Code or Pyzo, execute `python config_and_launch.py` **as a script** (usually with the shortcut `CTRL+F5`).
+4. If you are using a terminal, execute the script by running `python config_and_launch.py` after having choosed the SourceFilesToSinglePDF's folder directory with `cd`. Otherwise, if you are using an IDE such as Visual Studio Code or Pyzo, execute the file `config_and_launch.py` **as a script** (usually with the shortcut `CTRL+F5`).
 5. Wait for the process to complete. The generated PDF will be saved at the specified `output_path`.
 
 ## Example
