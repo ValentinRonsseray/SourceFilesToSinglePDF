@@ -22,9 +22,9 @@ Here are some examples of files generated with this tool:
 - [Better Trade Screen](https://github.com/Vilnante/SourceFilesToSinglePDF/files/11645277/ModCivVI.pdf) (a Sid Meier's Civilization VI mod by astor. You can find it [here](https://steamcommunity.com/sharedfiles/filedetails/?id=873246701))
 
 <p float="left">
-  <img src="https://github.com/Vilnante/SourceFilesToSinglePDF/assets/134857429/aadebbbd-ef49-4bbc-84d1-1ac06a493762" width="33%" />
-  <img src="https://github.com/Vilnante/SourceFilesToSinglePDF/assets/134857429/dc359097-3502-4cff-b6cb-bc69f4bd6ad6" width="33%" /> 
-  <img src="https://github.com/Vilnante/SourceFilesToSinglePDF/assets/134857429/85e6f690-6ca9-439c-ad2c-a1b3cb34944b" width="33%" />
+  <img src="https://github.com/Vilnante/SourceFilesToSinglePDF/assets/134857429/aadebbbd-ef49-4bbc-84d1-1ac06a493762" width="30%" />
+  <img src="https://github.com/Vilnante/SourceFilesToSinglePDF/assets/134857429/dc359097-3502-4cff-b6cb-bc69f4bd6ad6" width="30%" /> 
+  <img src="https://github.com/Vilnante/SourceFilesToSinglePDF/assets/134857429/85e6f690-6ca9-439c-ad2c-a1b3cb34944b" width="30%" />
 </p>
 
 ## Supported file formats
